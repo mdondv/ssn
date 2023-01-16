@@ -1,0 +1,7 @@
+# ignore all files
+/ssn_matlab/
+.DS_Store
+ring.ipynb
+
+# ignore the ipython checkpoints
+.ipynb_checkpoints
